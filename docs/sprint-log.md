@@ -10,7 +10,7 @@ By the end of this assignment, my user stories have acceptance criteria, my requ
 |-------|------|--------|
 | #1 | Add acceptance criteria to each user story | Done |
 | #2 | Number the requirements and link each story to one | Done |
-| #3 | Add structure and roadmap to the README | To do |
+| #3 | Add structure and roadmap to the README | Done |
 | #4 | Add evidence to the problem statement | Done |
 | #5 | Choose the specialized technology and list 3 sources | Done |
 | #6 | Outline the technology explanation | Done |
