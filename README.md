@@ -1,4 +1,5 @@
 # Fake-News-Detection-In-Tiktok
+
 A machine learning project that classifies short TikTok MP4 videos as likely fake or likely real news, to help viewers and fact-checkers decide which videos need a closer look.
 
 ## Problem statement
