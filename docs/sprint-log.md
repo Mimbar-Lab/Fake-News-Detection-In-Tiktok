@@ -8,8 +8,8 @@ By the end of this assignment, my user stories have acceptance criteria, my requ
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #1 | Add acceptance criteria to each user story | To do |
-| #2 | Number the requirements and link each story to one | To do |
+| #1 | Add acceptance criteria to each user story | Done |
+| #2 | Number the requirements and link each story to one | Done |
 | #3 | Add structure and roadmap to the README | To do |
 
 ### Daily standup notes
