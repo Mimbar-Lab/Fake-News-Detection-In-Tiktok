@@ -13,7 +13,7 @@ By the end of this assignment, my user stories have acceptance criteria, my requ
 | #3 | Add structure and roadmap to the README | To do |
 | #4 | Add evidence to the problem statement | Done |
 | #5 | Choose the specialized technology and list 3 sources | Done |
-| #6 | Outline the technology explanation | To do |
+| #6 | Outline the technology explanation | Done |
 
 ### Daily standup notes
 - Standup 1: First I will add acceptance criteria to the three user stories (issue #1), then number the requirements FR1-FR8 and NFR1-NFR5 and link each story to one (issue #2), then add the structure and roadmap to the README (issue #3). A possible blocker is that the pull request for issue #1 must be merged before I start issue #2, because both tasks change docs/user-stories.md. If I do them in parallel I may get a merge conflict.
